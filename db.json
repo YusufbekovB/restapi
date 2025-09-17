@@ -1,14 +1,14 @@
 {
   "posts": [
-    { "id": 1, "занятие 1": "Работа с АПИ" },
-    { "id": 2, "Занятие 2": "анализ API с помощью Postvman" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "занятие 1": "Rabota s API" },
+    { "id": 2, "Занятие 2": "Analiz API s pomoshyu Postman" },
+    { "id": 3, "title": "Napisanie SQL zaprosov" }
   ],
   "comments": [
-    { "id": 1, "body": "что то", "postId": 1 },
-    { "id": 2, "body": "sвеликолепно", "postId": 1 }
+    { "id": 1, "body": "Comment1111111", "postId": 1 },
+    { "id": 2, "body": "Excelllent", "postId": 1 }
   ],
   "profile": {
-    "name": "Салим"
+    "name": "Farrux PSYCHO"
   }
 }
